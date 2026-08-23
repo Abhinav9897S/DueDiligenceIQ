@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Local persistent vector store (runtime data, not source)
+esg_vector_db/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
